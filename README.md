@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Jacea Criscel Vitor
+- 👀 I’m interested in machines.
+- 🌱 I’m currently learning Microprocessor.
+- 💞️ I’m looking to collaborate on Mechanical Engineering.
